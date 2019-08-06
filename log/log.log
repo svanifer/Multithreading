@@ -1,0 +1,204 @@
+2019-06-27 12:56:37 INFO  Main:29 - 
+0 14 12 10 78 93 1 14 9 3 
+-5 0 47 5 -7 11 1 41 0 -1 
+30 14 0 7 -7 73 22 77 99 100 
+-1 2 37 0 -9 8 1 73 55 66 
+0 -5 75 88 0 8 90 1 5 7 
+-66 3 4 80 44 0 9 -7 6 47 
+111 8 4 -7 3 5 0 78 9 -5 
+0 75 -8 1 45 1 8 0 96 35 
+1 2 3 4 5 6 7 8 0 9 
+-1 -2 -3 -4 -5 -6 -7 -8 -9 0 
+
+2019-06-27 12:56:37 INFO  NumberSetter:32 - Thread-0 sets the number 21 in position 0-0
+2019-06-27 12:56:37 INFO  NumberSetter:32 - Thread-2 sets the number 17 in position 1-1
+2019-06-27 12:56:37 INFO  NumberSetter:32 - Thread-4 sets the number 16 in position 2-2
+2019-06-27 12:56:37 INFO  NumberSetter:32 - Thread-8 sets the number 7 in position 4-4
+2019-06-27 12:56:37 INFO  NumberSetter:32 - Thread-6 sets the number 26 in position 3-3
+2019-06-27 12:56:37 INFO  NumberSetter:32 - Thread-6 sets the number 26 in position 5-5
+2019-06-27 12:56:37 INFO  NumberSetter:32 - Thread-8 sets the number 7 in position 6-6
+2019-06-27 12:56:37 INFO  NumberSetter:32 - Thread-4 sets the number 16 in position 7-7
+2019-06-27 12:56:37 INFO  NumberSetter:32 - Thread-2 sets the number 17 in position 8-8
+2019-06-27 12:56:37 INFO  NumberSetter:32 - Thread-0 sets the number 21 in position 9-9
+2019-06-27 12:56:37 INFO  Main:49 - 
+21 14 12 10 78 93 1 14 9 3 
+-5 17 47 5 -7 11 1 41 0 -1 
+30 14 16 7 -7 73 22 77 99 100 
+-1 2 37 26 -9 8 1 73 55 66 
+0 -5 75 88 7 8 90 1 5 7 
+-66 3 4 80 44 26 9 -7 6 47 
+111 8 4 -7 3 5 7 78 9 -5 
+0 75 -8 1 45 1 8 16 96 35 
+1 2 3 4 5 6 7 8 17 9 
+-1 -2 -3 -4 -5 -6 -7 -8 -9 21 
+
+2019-06-27 12:57:43 INFO  Main:29 - 
+0 14 12 10 78 93 1 14 9 3 
+-5 0 47 5 -7 11 1 41 0 -1 
+30 14 0 7 -7 73 22 77 99 100 
+-1 2 37 0 -9 8 1 73 55 66 
+0 -5 75 88 0 8 90 1 5 7 
+-66 3 4 80 44 0 9 -7 6 47 
+111 8 4 -7 3 5 0 78 9 -5 
+0 75 -8 1 45 1 8 0 96 35 
+1 2 3 4 5 6 7 8 0 9 
+-1 -2 -3 -4 -5 -6 -7 -8 -9 0 
+
+2019-06-27 12:57:43 INFO  NumberSetter:32 - Thread-0 sets the number 21 in position 0-0
+2019-06-27 12:57:43 INFO  NumberSetter:32 - Thread-2 sets the number 17 in position 1-1
+2019-06-27 12:57:43 INFO  NumberSetter:32 - Thread-4 sets the number 16 in position 2-2
+2019-06-27 12:57:43 INFO  NumberSetter:32 - Thread-6 sets the number 26 in position 3-3
+2019-06-27 12:57:43 INFO  NumberSetter:32 - Thread-8 sets the number 7 in position 4-4
+2019-06-27 12:57:43 INFO  NumberSetter:32 - Thread-8 sets the number 7 in position 5-5
+2019-06-27 12:57:43 INFO  NumberSetter:32 - Thread-4 sets the number 16 in position 9-9
+2019-06-27 12:57:43 INFO  NumberSetter:32 - Thread-0 sets the number 21 in position 8-8
+2019-06-27 12:57:43 INFO  NumberSetter:32 - Thread-2 sets the number 17 in position 7-7
+2019-06-27 12:57:43 INFO  NumberSetter:32 - Thread-6 sets the number 26 in position 6-6
+2019-06-27 12:57:43 INFO  Main:49 - 
+21 14 12 10 78 93 1 14 9 3 
+-5 17 47 5 -7 11 1 41 0 -1 
+30 14 16 7 -7 73 22 77 99 100 
+-1 2 37 26 -9 8 1 73 55 66 
+0 -5 75 88 7 8 90 1 5 7 
+-66 3 4 80 44 7 9 -7 6 47 
+111 8 4 -7 3 5 26 78 9 -5 
+0 75 -8 1 45 1 8 17 96 35 
+1 2 3 4 5 6 7 8 21 9 
+-1 -2 -3 -4 -5 -6 -7 -8 -9 16 
+
+2019-06-27 13:05:26 INFO  Main:29 - 
+0 14 12 10 78 93 1 14 9 3 
+-5 0 47 5 -7 11 1 41 0 -1 
+30 14 0 7 -7 73 22 77 99 100 
+-1 2 37 0 -9 8 1 73 55 66 
+0 -5 75 88 0 8 90 1 5 7 
+-66 3 4 80 44 0 9 -7 6 47 
+111 8 4 -7 3 5 0 78 9 -5 
+0 75 -8 1 45 1 8 0 96 35 
+1 2 3 4 5 6 7 8 0 9 
+-1 -2 -3 -4 -5 -6 -7 -8 -9 0 
+
+2019-06-27 13:05:26 INFO  NumberSetter:32 - Thread-0 sets the number 21 in position 0-0
+2019-06-27 13:05:26 INFO  NumberSetter:32 - Thread-2 sets the number 17 in position 1-1
+2019-06-27 13:05:26 INFO  NumberSetter:32 - Thread-4 sets the number 16 in position 2-2
+2019-06-27 13:05:26 INFO  NumberSetter:32 - Thread-6 sets the number 26 in position 3-3
+2019-06-27 13:05:26 INFO  NumberSetter:32 - Thread-8 sets the number 7 in position 4-4
+2019-06-27 13:05:26 INFO  NumberSetter:32 - Thread-0 sets the number 21 in position 5-5
+2019-06-27 13:05:26 INFO  NumberSetter:32 - Thread-2 sets the number 17 in position 6-6
+2019-06-27 13:05:26 INFO  NumberSetter:32 - Thread-4 sets the number 16 in position 8-8
+2019-06-27 13:05:26 INFO  NumberSetter:32 - Thread-6 sets the number 26 in position 7-7
+2019-06-27 13:05:26 INFO  NumberSetter:32 - Thread-8 sets the number 7 in position 9-9
+2019-06-27 13:05:26 INFO  Main:49 - 
+21 14 12 10 78 93 1 14 9 3 
+-5 17 47 5 -7 11 1 41 0 -1 
+30 14 16 7 -7 73 22 77 99 100 
+-1 2 37 26 -9 8 1 73 55 66 
+0 -5 75 88 7 8 90 1 5 7 
+-66 3 4 80 44 21 9 -7 6 47 
+111 8 4 -7 3 5 17 78 9 -5 
+0 75 -8 1 45 1 8 26 96 35 
+1 2 3 4 5 6 7 8 16 9 
+-1 -2 -3 -4 -5 -6 -7 -8 -9 7 
+
+2019-07-09 19:55:27 INFO  Main:29 - 
+0 14 12 10 78 93 1 14 9 3 
+-5 0 47 5 -7 11 1 41 0 -1 
+30 14 0 7 -7 73 22 77 99 100 
+-1 2 37 0 -9 8 1 73 55 66 
+0 -5 75 88 0 8 90 1 5 7 
+-66 3 4 80 44 0 9 -7 6 47 
+111 8 4 -7 3 5 0 78 9 -5 
+0 75 -8 1 45 1 8 0 96 35 
+1 2 3 4 5 6 7 8 0 9 
+-1 -2 -3 -4 -5 -6 -7 -8 -9 0 
+
+2019-07-09 19:55:27 INFO  NumberSetter:32 - Thread-0 sets the number 21 in position 0-0
+2019-07-09 19:55:27 INFO  NumberSetter:32 - Thread-4 sets the number 16 in position 2-2
+2019-07-09 19:55:27 INFO  NumberSetter:32 - Thread-8 sets the number 7 in position 4-4
+2019-07-09 19:55:27 INFO  NumberSetter:32 - Thread-6 sets the number 26 in position 3-3
+2019-07-09 19:55:27 INFO  NumberSetter:32 - Thread-2 sets the number 17 in position 1-1
+2019-07-09 19:55:27 INFO  NumberSetter:32 - Thread-6 sets the number 26 in position 5-5
+2019-07-09 19:55:27 INFO  NumberSetter:32 - Thread-2 sets the number 17 in position 9-9
+2019-07-09 19:55:27 INFO  NumberSetter:32 - Thread-4 sets the number 16 in position 8-8
+2019-07-09 19:55:27 INFO  NumberSetter:32 - Thread-8 sets the number 7 in position 7-7
+2019-07-09 19:55:27 INFO  NumberSetter:32 - Thread-0 sets the number 21 in position 6-6
+2019-07-09 19:55:27 INFO  Main:49 - 
+21 14 12 10 78 93 1 14 9 3 
+-5 17 47 5 -7 11 1 41 0 -1 
+30 14 16 7 -7 73 22 77 99 100 
+-1 2 37 26 -9 8 1 73 55 66 
+0 -5 75 88 7 8 90 1 5 7 
+-66 3 4 80 44 26 9 -7 6 47 
+111 8 4 -7 3 5 21 78 9 -5 
+0 75 -8 1 45 1 8 7 96 35 
+1 2 3 4 5 6 7 8 16 9 
+-1 -2 -3 -4 -5 -6 -7 -8 -9 17 
+
+2019-07-09 20:04:55 INFO  Main:29 - 
+0 14 12 10 78 93 1 14 9 3 
+-5 0 47 5 -7 11 1 41 0 -1 
+30 14 0 7 -7 73 22 77 99 100 
+-1 2 37 0 -9 8 1 73 55 66 
+0 -5 75 88 0 8 90 1 5 7 
+-66 3 4 80 44 0 9 -7 6 47 
+111 8 4 -7 3 5 0 78 9 -5 
+0 75 -8 1 45 1 8 0 96 35 
+1 2 3 4 5 6 7 8 0 9 
+-1 -2 -3 -4 -5 -6 -7 -8 -9 0 
+
+2019-07-09 20:04:55 INFO  NumberSetter:32 - Thread-0 sets the number 21 in position 0-0
+2019-07-09 20:04:55 INFO  NumberSetter:32 - Thread-2 sets the number 17 in position 1-1
+2019-07-09 20:04:55 INFO  NumberSetter:32 - Thread-4 sets the number 16 in position 2-2
+2019-07-09 20:04:55 INFO  NumberSetter:32 - Thread-6 sets the number 26 in position 3-3
+2019-07-09 20:04:55 INFO  NumberSetter:32 - Thread-8 sets the number 7 in position 4-4
+2019-07-09 20:04:55 INFO  NumberSetter:32 - Thread-4 sets the number 16 in position 5-5
+2019-07-09 20:04:55 INFO  NumberSetter:32 - Thread-0 sets the number 21 in position 6-6
+2019-07-09 20:04:55 INFO  NumberSetter:32 - Thread-2 sets the number 17 in position 7-7
+2019-07-09 20:04:55 INFO  NumberSetter:32 - Thread-6 sets the number 26 in position 8-8
+2019-07-09 20:04:55 INFO  NumberSetter:32 - Thread-8 sets the number 7 in position 9-9
+2019-07-09 20:04:56 INFO  Main:49 - 
+21 14 12 10 78 93 1 14 9 3 
+-5 17 47 5 -7 11 1 41 0 -1 
+30 14 16 7 -7 73 22 77 99 100 
+-1 2 37 26 -9 8 1 73 55 66 
+0 -5 75 88 7 8 90 1 5 7 
+-66 3 4 80 44 16 9 -7 6 47 
+111 8 4 -7 3 5 21 78 9 -5 
+0 75 -8 1 45 1 8 17 96 35 
+1 2 3 4 5 6 7 8 26 9 
+-1 -2 -3 -4 -5 -6 -7 -8 -9 7 
+
+2019-08-06 20:05:38 INFO  Main:29 - 
+0 14 12 10 78 93 1 14 9 3 
+-5 0 47 5 -7 11 1 41 0 -1 
+30 14 0 7 -7 73 22 77 99 100 
+-1 2 37 0 -9 8 1 73 55 66 
+0 -5 75 88 0 8 90 1 5 7 
+-66 3 4 80 44 0 9 -7 6 47 
+111 8 4 -7 3 5 0 78 9 -5 
+0 75 -8 1 45 1 8 0 96 35 
+1 2 3 4 5 6 7 8 0 9 
+-1 -2 -3 -4 -5 -6 -7 -8 -9 0 
+
+2019-08-06 20:05:39 INFO  NumberSetter:32 - Thread-2 sets the number 17 in position 1-1
+2019-08-06 20:05:39 INFO  NumberSetter:32 - Thread-8 sets the number 7 in position 4-4
+2019-08-06 20:05:39 INFO  NumberSetter:32 - Thread-6 sets the number 26 in position 3-3
+2019-08-06 20:05:39 INFO  NumberSetter:32 - Thread-4 sets the number 16 in position 2-2
+2019-08-06 20:05:39 INFO  NumberSetter:32 - Thread-0 sets the number 21 in position 0-0
+2019-08-06 20:05:39 INFO  NumberSetter:32 - Thread-6 sets the number 26 in position 7-7
+2019-08-06 20:05:39 INFO  NumberSetter:32 - Thread-8 sets the number 7 in position 8-8
+2019-08-06 20:05:39 INFO  NumberSetter:32 - Thread-2 sets the number 17 in position 5-5
+2019-08-06 20:05:39 INFO  NumberSetter:32 - Thread-4 sets the number 16 in position 6-6
+2019-08-06 20:05:39 INFO  NumberSetter:32 - Thread-0 sets the number 21 in position 9-9
+2019-08-06 20:05:39 INFO  Main:49 - 
+21 14 12 10 78 93 1 14 9 3 
+-5 17 47 5 -7 11 1 41 0 -1 
+30 14 16 7 -7 73 22 77 99 100 
+-1 2 37 26 -9 8 1 73 55 66 
+0 -5 75 88 7 8 90 1 5 7 
+-66 3 4 80 44 17 9 -7 6 47 
+111 8 4 -7 3 5 16 78 9 -5 
+0 75 -8 1 45 1 8 26 96 35 
+1 2 3 4 5 6 7 8 7 9 
+-1 -2 -3 -4 -5 -6 -7 -8 -9 21 
+
